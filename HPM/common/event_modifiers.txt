@@ -825,6 +825,13 @@ small_immigration_boom = {
     icon = 17
 }
 
+Home_of_Brave = {
+    immigrant_attract = 5.5
+	global_assimilation_rate = 3
+	population_growth = 0.005
+    icon = 19
+}
+
 land_of_opportunity = {
     global_immigrant_attract = 4.5
     icon = 13
